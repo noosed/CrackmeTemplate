@@ -1,3 +1,9 @@
 # CrackmeTemplate
 ### simple applications to pack and reverse for knowledge
-_Finoose#0821 for questions_
+
+**C++** - simple key based loader
+**C++2** - username / password based loader
+
+
+**C#** - simple key based forms application
+**C#** - username / password based forms application
