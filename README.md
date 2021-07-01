@@ -8,4 +8,4 @@
 
 **C#** - simple key based forms application
 
-**C#** - username / password based forms application
+**C#2** - username / password based forms application
